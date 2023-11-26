@@ -1,0 +1,15 @@
+C:\geekbrains\finals\obj\Debug\net6.0\finals.csproj.AssemblyReference.cache
+C:\geekbrains\finals\obj\Debug\net6.0\finals.GeneratedMSBuildEditorConfig.editorconfig
+C:\geekbrains\finals\obj\Debug\net6.0\finals.AssemblyInfoInputs.cache
+C:\geekbrains\finals\obj\Debug\net6.0\finals.AssemblyInfo.cs
+C:\geekbrains\finals\obj\Debug\net6.0\finals.csproj.CoreCompileInputs.cache
+C:\geekbrains\finals\bin\Debug\net6.0\finals.exe
+C:\geekbrains\finals\bin\Debug\net6.0\finals.deps.json
+C:\geekbrains\finals\bin\Debug\net6.0\finals.runtimeconfig.json
+C:\geekbrains\finals\bin\Debug\net6.0\finals.dll
+C:\geekbrains\finals\bin\Debug\net6.0\finals.pdb
+C:\geekbrains\finals\obj\Debug\net6.0\finals.dll
+C:\geekbrains\finals\obj\Debug\net6.0\refint\finals.dll
+C:\geekbrains\finals\obj\Debug\net6.0\finals.pdb
+C:\geekbrains\finals\obj\Debug\net6.0\finals.genruntimeconfig.cache
+C:\geekbrains\finals\obj\Debug\net6.0\ref\finals.dll
