@@ -45,3 +45,10 @@ string[] SecondStrArray(string[] array)
 string[] finalArray = SecondStrArray(NewArray);
 Console.WriteLine("The new array which elements consist of 3 symbols: ");
 PrintArray(finalArray);
+
+
+
+
+
+
+
